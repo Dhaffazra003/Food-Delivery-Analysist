@@ -6,9 +6,13 @@ Interactive Power BI dashboard for analyzing operational performance, customer s
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](D:\food-delivery-analysis\images\Business Analysis.png)
-![Dashboard Preview](D:\food-delivery-analysis\images\Operational Analysis.png)
----
+### Business Analysis
+
+![Business Analysis](images/business_analysis.png)
+
+### Operational Analysis
+
+![Operational Analysis](images/operational_analysis.png)
 
 ## 🎯 Project Objectives
 
